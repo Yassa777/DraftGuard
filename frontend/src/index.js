@@ -17,7 +17,9 @@ ClassicEditor
         ],
         toolbar: [
             'bold',
-            'italic'
+            'italic',
+            '|',
+            'patentCopilot'
         ]
     })
     .then(editor => {
